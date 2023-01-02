@@ -1,0 +1,387 @@
+Prediction of noncovalent interactions for PDB structure FAK_FANGCHINOLINE_PROTEIN
+==================================================================================
+Created on 2022/12/14 using PLIP v2.2.2
+
+If you are using PLIP in your work, please cite:
+Adasme,M. et al. PLIP 2021: expanding the scope of the protein-ligand interaction profiler to DNA and RNA. Nucl. Acids Res. (05 May 2021), gkab294. doi: 10.1093/nar/gkab294
+Analysis was done on model 1.
+
+UNK:Z:1 (UNK) - SMALLMOLECULE
+-----------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:10 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:11 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:12 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:13 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:14 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:15 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:16 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): A
+
+
+**Hydrophobic Interactions**
++-------+---------+----------+-----------+-------------+--------------+------+--------------+---------------+------------------------+------------------------+
+| RESNR | RESTYPE | RESCHAIN | RESNR_LIG | RESTYPE_LIG | RESCHAIN_LIG | DIST | LIGCARBONIDX | PROTCARBONIDX | LIGCOO                 | PROTCOO                | 
++=======+=========+==========+===========+=============+==============+======+==============+===============+========================+========================+
+| 397   | TYR     | A        | 16        | UNK         | Z            | 3.60 | 16725        | 6354          | 63.449, 49.302, 53.962 | 65.435, 52.000, 52.643 | 
++-------+---------+----------+-----------+-------------+--------------+------+--------------+---------------+------------------------+------------------------+
+
+
+
+UNK:Z:17 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:18 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:19 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:2 (UNK) - SMALLMOLECULE
+-----------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:20 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:21 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:22 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:23 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:24 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:25 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:26 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): A
+
+
+**Hydrophobic Interactions**
++-------+---------+----------+-----------+-------------+--------------+------+--------------+---------------+------------------------+------------------------+
+| RESNR | RESTYPE | RESCHAIN | RESNR_LIG | RESTYPE_LIG | RESCHAIN_LIG | DIST | LIGCARBONIDX | PROTCARBONIDX | LIGCOO                 | PROTCOO                | 
++=======+=========+==========+===========+=============+==============+======+==============+===============+========================+========================+
+| 397   | TYR     | A        | 26        | UNK         | Z            | 3.80 | 16748        | 6354          | 63.965, 48.495, 52.781 | 65.435, 52.000, 52.643 | 
++-------+---------+----------+-----------+-------------+--------------+------+--------------+---------------+------------------------+------------------------+
+
+
+
+UNK:Z:27 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:28 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:29 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:3 (UNK) - SMALLMOLECULE
+-----------------------------
+Interacting chain(s): A
+
+
+**Hydrogen Bonds**
++-------+---------+----------+-----------+-------------+--------------+-----------+----------+----------+-----------+-----------+----------+-----------+-------------+--------------+------------------------+------------------------+
+| RESNR | RESTYPE | RESCHAIN | RESNR_LIG | RESTYPE_LIG | RESCHAIN_LIG | SIDECHAIN | DIST_H-A | DIST_D-A | DON_ANGLE | PROTISDON | DONORIDX | DONORTYPE | ACCEPTORIDX | ACCEPTORTYPE | LIGCOO                 | PROTCOO                | 
++=======+=========+==========+===========+=============+==============+===========+==========+==========+===========+===========+==========+===========+=============+==============+========================+========================+
+| 465   | ARG     | A        | 3         | UNK         | Z            | True      | 2.71     | 3.12     | 104.14    | True      | 7395     | Ng+       | 16705       | O3           | 61.929, 50.998, 59.880 | 62.481, 50.251, 62.859 | 
++-------+---------+----------+-----------+-------------+--------------+-----------+----------+----------+-----------+-----------+----------+-----------+-------------+--------------+------------------------+------------------------+
+
+
+
+UNK:Z:30 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:31 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:32 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:33 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:34 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): A
+
+
+**Hydrophobic Interactions**
++-------+---------+----------+-----------+-------------+--------------+------+--------------+---------------+------------------------+------------------------+
+| RESNR | RESTYPE | RESCHAIN | RESNR_LIG | RESTYPE_LIG | RESCHAIN_LIG | DIST | LIGCARBONIDX | PROTCARBONIDX | LIGCOO                 | PROTCOO                | 
++=======+=========+==========+===========+=============+==============+======+==============+===============+========================+========================+
+| 397   | TYR     | A        | 34        | UNK         | Z            | 3.89 | 16761        | 6354          | 63.566, 48.790, 51.476 | 65.435, 52.000, 52.643 | 
++-------+---------+----------+-----------+-------------+--------------+------+--------------+---------------+------------------------+------------------------+
+
+
+
+UNK:Z:35 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:36 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): A
+
+
+**Hydrophobic Interactions**
++-------+---------+----------+-----------+-------------+--------------+------+--------------+---------------+------------------------+------------------------+
+| RESNR | RESTYPE | RESCHAIN | RESNR_LIG | RESTYPE_LIG | RESCHAIN_LIG | DIST | LIGCARBONIDX | PROTCARBONIDX | LIGCOO                 | PROTCOO                | 
++=======+=========+==========+===========+=============+==============+======+==============+===============+========================+========================+
+| 57    | ARG     | A        | 36        | UNK         | Z            | 3.90 | 16765        | 859           | 67.269, 44.131, 55.316 | 69.342, 47.157, 56.650 | 
++-------+---------+----------+-----------+-------------+--------------+------+--------------+---------------+------------------------+------------------------+
+
+
+
+UNK:Z:37 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:38 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:39 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:4 (UNK) - SMALLMOLECULE
+-----------------------------
+Interacting chain(s): A
+
+
+**Hydrogen Bonds**
++-------+---------+----------+-----------+-------------+--------------+-----------+----------+----------+-----------+-----------+----------+-----------+-------------+--------------+------------------------+------------------------+
+| RESNR | RESTYPE | RESCHAIN | RESNR_LIG | RESTYPE_LIG | RESCHAIN_LIG | SIDECHAIN | DIST_H-A | DIST_D-A | DON_ANGLE | PROTISDON | DONORIDX | DONORTYPE | ACCEPTORIDX | ACCEPTORTYPE | LIGCOO                 | PROTCOO                | 
++=======+=========+==========+===========+=============+==============+===========+==========+==========+===========+===========+==========+===========+=============+==============+========================+========================+
+| 462   | ASP     | A        | 4         | UNK         | Z            | True      | 2.18     | 3.14     | 175.17    | False     | 16706    | O3        | 7353        | O-           | 63.513, 48.864, 59.386 | 65.320, 51.260, 60.308 | 
++-------+---------+----------+-----------+-------------+--------------+-----------+----------+----------+-----------+-----------+----------+-----------+-------------+--------------+------------------------+------------------------+
+| 465   | ARG     | A        | 4         | UNK         | Z            | True      | 3.45     | 3.88     | 107.63    | True      | 7395     | Ng+       | 16706       | O3           | 63.513, 48.864, 59.386 | 62.481, 50.251, 62.859 | 
++-------+---------+----------+-----------+-------------+--------------+-----------+----------+----------+-----------+-----------+----------+-----------+-------------+--------------+------------------------+------------------------+
+
+
+
+UNK:Z:40 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:41 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): A
+
+
+**Hydrophobic Interactions**
++-------+---------+----------+-----------+-------------+--------------+------+--------------+---------------+------------------------+------------------------+
+| RESNR | RESTYPE | RESCHAIN | RESNR_LIG | RESTYPE_LIG | RESCHAIN_LIG | DIST | LIGCARBONIDX | PROTCARBONIDX | LIGCOO                 | PROTCOO                | 
++=======+=========+==========+===========+=============+==============+======+==============+===============+========================+========================+
+| 35    | ARG     | A        | 41        | UNK         | Z            | 3.81 | 16773        | 492           | 67.337, 44.876, 54.143 | 70.406, 42.834, 53.177 | 
++-------+---------+----------+-----------+-------------+--------------+------+--------------+---------------+------------------------+------------------------+
+| 57    | ARG     | A        | 41        | UNK         | Z            | 3.94 | 16773        | 859           | 67.337, 44.876, 54.143 | 69.342, 47.157, 56.650 | 
++-------+---------+----------+-----------+-------------+--------------+------+--------------+---------------+------------------------+------------------------+
+
+
+
+UNK:Z:42 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:43 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:44 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:45 (UNK) - SMALLMOLECULE
+------------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:5 (UNK) - SMALLMOLECULE
+-----------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:6 (UNK) - SMALLMOLECULE
+-----------------------------
+Interacting chain(s): A
+
+
+**Hydrogen Bonds**
++-------+---------+----------+-----------+-------------+--------------+-----------+----------+----------+-----------+-----------+----------+-----------+-------------+--------------+------------------------+------------------------+
+| RESNR | RESTYPE | RESCHAIN | RESNR_LIG | RESTYPE_LIG | RESCHAIN_LIG | SIDECHAIN | DIST_H-A | DIST_D-A | DON_ANGLE | PROTISDON | DONORIDX | DONORTYPE | ACCEPTORIDX | ACCEPTORTYPE | LIGCOO                 | PROTCOO                | 
++=======+=========+==========+===========+=============+==============+===========+==========+==========+===========+===========+==========+===========+=============+==============+========================+========================+
+| 60    | ASP     | A        | 6         | UNK         | Z            | False     | 3.09     | 3.92     | 140.53    | True      | 902      | Nam       | 16709       | O3           | 65.476, 46.326, 49.551 | 68.866, 45.270, 47.882 | 
++-------+---------+----------+-----------+-------------+--------------+-----------+----------+----------+-----------+-----------+----------+-----------+-------------+--------------+------------------------+------------------------+
+| 60    | ASP     | A        | 6         | UNK         | Z            | True      | 3.47     | 4.06     | 123.64    | True      | 908      | O3        | 16709       | O3           | 65.476, 46.326, 49.551 | 67.387, 42.953, 48.345 | 
++-------+---------+----------+-----------+-------------+--------------+-----------+----------+----------+-----------+-----------+----------+-----------+-------------+--------------+------------------------+------------------------+
+| 395   | ASP     | A        | 6         | UNK         | Z            | True      | 3.01     | 3.48     | 112.74    | True      | 6330     | O3        | 16709       | O3           | 65.476, 46.326, 49.551 | 63.740, 46.306, 46.539 | 
++-------+---------+----------+-----------+-------------+--------------+-----------+----------+----------+-----------+-----------+----------+-----------+-------------+--------------+------------------------+------------------------+
+
+
+
+UNK:Z:7 (UNK) - SMALLMOLECULE
+-----------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:8 (UNK) - SMALLMOLECULE
+-----------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
+UNK:Z:9 (UNK) - SMALLMOLECULE
+-----------------------------
+Interacting chain(s): 
+
+
+
+No interactions detected.
